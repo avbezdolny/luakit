@@ -2,6 +2,7 @@
 
 * Lua [https://www.lua.org/home.html](https://www.lua.org/home.html)
 * LÖVE [https://www.love2d.org](https://www.love2d.org)
+* LÖVR [https://lovr.org](https://lovr.org)
 * Menori [https://github.com/rozenmad/Menori](https://github.com/rozenmad/Menori)
 * Say [https://github.com/lunarmodules/say](https://github.com/lunarmodules/say)
 * Tick [https://github.com/rxi/tick](https://github.com/rxi/tick)
